@@ -21,7 +21,7 @@ include("header.php");
                                 <div class="live-status bg-success"></div>
                             </a>
                             <div class="media-body">
-                                <div class="f-13 chat-header">Tyra banks</div>
+                                <div class="f-13 chat-header"> banks</div>
                             </div>
                         </div>
                         <div class="media userlist-box" data-id="2" data-status="online" data-username="Lary Doe" data-toggle="tooltip" data-placement="left" title="Lary Doe">
