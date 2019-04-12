@@ -11,7 +11,7 @@
       <![endif]-->
     <!-- Meta -->
     <meta charset="utf-8">
-    <meta  content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta nam content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="description" content="Phoenixcoded">
     <meta name="keywords" content=", Flat ui, Admin , Responsive, Landing, Bootstrap, App, Template, Mobile, iOS, Android, apple, creative app">
